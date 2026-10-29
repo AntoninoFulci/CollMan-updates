@@ -3,16 +3,16 @@
   <channel>
     <title>CollMan macos updates</title>
     <link>https://github.com/AntoninoFulci/CollMan-updates</link>
-    <description>CollMan desktop alpha releases</description>
+    <description>CollMan desktop preview releases</description>
     <language>en</language>
     <item>
-      <title>CollMan 0.1.0-alpha.4</title>
-      <pubDate>Sat, 24 Oct 2026 10:48:41 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-alpha.4</sparkle:shortVersionString>
-      <description>Automatic app and catalog checks, improved CardTrader imports, and catalog name aliases. Save unfinished edits before installing.</description>
+      <title>CollMan 0.1.0-beta.1</title>
+      <pubDate>Thu, 29 Oct 2026 17:50:50 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
+      <description>First beta with Home and Library, expanded card details, deck hand testing and sideboarding. Save unfinished edits before installing.</description>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-alpha.4/CollMan-0.1.0-alpha.4-macOS-universal.zip" length="28426352" type="application/octet-stream" sparkle:edSignature="F0np/irp/IP03jFqnAPOYrw/9jadEhxiZknAEUqi+vvWHjpxAlDDQnrVtroiIfbM9JFcsBGPM4qjL6qy597sDQ==" sparkle:version="4" sparkle:shortVersionString="0.1.0-alpha.4" />
+      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-beta.1/CollMan-0.1.0-beta.1-macOS-universal.zip" length="28961815" type="application/octet-stream" sparkle:edSignature="/tvimlZ7r5oQ2g2RJ0KYIbIB69g/Tfbq6ixmLY0HisfnLk6JLUQbRUncT7JyuWCejDkH1szLtBSxixgh24uwDw==" sparkle:version="5" sparkle:shortVersionString="0.1.0-beta.1" />
     </item>
   </channel>
 </rss>

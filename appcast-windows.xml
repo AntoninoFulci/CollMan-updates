@@ -3,15 +3,15 @@
   <channel>
     <title>CollMan windows updates</title>
     <link>https://github.com/AntoninoFulci/CollMan-updates</link>
-    <description>CollMan desktop alpha releases</description>
+    <description>CollMan desktop preview releases</description>
     <language>en</language>
     <item>
-      <title>CollMan 0.1.0-alpha.4</title>
-      <pubDate>Sat, 24 Oct 2026 10:48:41 +0000</pubDate>
-      <sparkle:version>0.1.0.4</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-alpha.4</sparkle:shortVersionString>
-      <description>Automatic app and catalog checks, improved CardTrader imports, and catalog name aliases. Save unfinished edits before installing.</description>
-      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-alpha.4/CollMan-0.1.0-alpha.4-Windows-x64-Setup.exe" length="15496263" type="application/octet-stream" sparkle:dsaSignature="MDwCHHP/9VoO5B3Vjv3q9Qm513hrRj8ivLwSZ6BJehECHDg+fTR/Nc/hDf0M/jlfEntmIUwOZXTnT1uWsNA=" sparkle:version="0.1.0.4" sparkle:shortVersionString="0.1.0-alpha.4" />
+      <title>CollMan 0.1.0-beta.1</title>
+      <pubDate>Thu, 29 Oct 2026 17:50:50 +0000</pubDate>
+      <sparkle:version>0.1.0.5</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
+      <description>First beta with Home and Library, expanded card details, deck hand testing and sideboarding. Save unfinished edits before installing.</description>
+      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-beta.1/CollMan-0.1.0-beta.1-Windows-x64-Setup.exe" length="15704240" type="application/octet-stream" sparkle:dsaSignature="MDwCHGpAUj03ZyMtYEcyQDpUueVmbIzvnH7pOIEkOBYCHFZa5Ijmgyf3ppqQXVtR3LNM0paHwzcYucaR6bg=" sparkle:version="0.1.0.5" sparkle:shortVersionString="0.1.0-beta.1" />
     </item>
   </channel>
 </rss>

@@ -6,13 +6,13 @@
     <description>CollMan desktop preview releases</description>
     <language>en</language>
     <item>
-      <title>CollMan 0.1.0-beta.1</title>
-      <pubDate>Thu, 29 Oct 2026 17:50:50 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
-      <description>First beta with Home and Library, expanded card details, deck hand testing and sideboarding. Save unfinished edits before installing.</description>
+      <title>CollMan 0.1.0-beta.2</title>
+      <pubDate>Mon, 02 Nov 2026 12:36:09 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+      <description>Beta 2 adds an offline bundled catalog, multilingual card search, effect filters, improved deck imports and legality checks, and a new app icon. Save unfinished edits before installing.</description>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-beta.1/CollMan-0.1.0-beta.1-macOS-universal.zip" length="28961815" type="application/octet-stream" sparkle:edSignature="/tvimlZ7r5oQ2g2RJ0KYIbIB69g/Tfbq6ixmLY0HisfnLk6JLUQbRUncT7JyuWCejDkH1szLtBSxixgh24uwDw==" sparkle:version="5" sparkle:shortVersionString="0.1.0-beta.1" />
+      <enclosure url="https://github.com/AntoninoFulci/CollMan-updates/releases/download/v0.1.0-beta.2/CollMan-0.1.0-beta.2-macOS-universal.zip" length="83284945" type="application/octet-stream" sparkle:edSignature="MAV89KMf3v17TjlmuN4eg95NK+BXey5xItA2GFFJK8lWQeVfD3/e2zUOJ9YbutEfAyjZMXUF5FNpp6V9/ZSmBA==" sparkle:version="6" sparkle:shortVersionString="0.1.0-beta.2" />
     </item>
   </channel>
 </rss>
